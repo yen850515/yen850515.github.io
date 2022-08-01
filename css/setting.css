@@ -10,23 +10,6 @@ img{
 nav li{
 	    margin: 0 13px;
 }
-#intro .jumbotron{
-	background: url('../pictures/mainbg.png');
-	background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    height: 70vh;
-    margin-bottom: 0px;
-}
-
-#intro .jumbotron .container{
-	position:relative;
-    top: 50%;
-    transform: translate(0, -50%);
-}
-#intro .btn{
-	margin-top: 20px;
-}
 .btn{
     background-color: #f05f5c;
     padding: 7px 28px;
@@ -37,74 +20,11 @@ nav li{
 	opacity:0.8;
 	background-color: #f05f5c!important;
 }
-#second{
-	padding: 80px 0px;
-}
-#second h3, #latest h3{
-	margin-bottom: 70px;
-	font-size: 32px;
-}
-#second img{
-	border-radius: 100%;
-    width: 108px;
-}
-#second h5{
-	margin-top: 22px;
-    font-size: 16px;
-}
 
 p{
 	font-size: 16px;
     line-height: 26px;
     color: #707070;
-}
-p.lead{
-	color: #707070;
-	line-height: 31px;
-}
-#latest {
-	background: rgb(248, 248, 248);
-	padding: 80px 0px;
-}
-#latest .upper{
-	position:relative;
-}
-#latest .innertext{
-	position:absolute;
-	bottom:20px;
-	left:30px;
-}
-#latest .innertext span{
-	background: rgba(255,255,255,0.3);
-    padding: 5px 16px;
-    border-radius: 30px;
-}
-#latest h4{
-	font-size: 19px;
-    margin-top: 18px;
-}
-#latest .lower{
-	    padding: 22px;
-
-}
-#latest .col-md-4 .outer{
-	box-shadow: 0 0 8px 0 rgba(235, 234, 229, 0.884);
-	padding: 0px;
-	margin: 0 5px;
-}
-#latest .lower h3{
-	font-size: 21px;
-	margin-bottom: 20px;
-}
-#latest a{
-	color:rgba(63, 62, 62, 0.966);
-}
-#latest a{
-	color:rgba(63, 62, 62, 0.966);
-	text-decoration: none;
-}
-#latest i{
-	margin-right:5px;
 }
 #email{
 	padding: 80px 0px
@@ -155,23 +75,7 @@ footer ul{
 	float: left;
     margin-right: 46px;
 }
-#latest .thehead h3{
-    margin-bottom: 7px;
-    font-size: 32px;
 
-}
-#latest .thehead p{
-    margin-bottom: 80px;
-
-
-}
-#latest .thehead .col-md-4 p{
-	margin-bottom: 0px;
-    margin-top: 25px;
-}
-#latest .thehead h3.notag{
-	margin-bottom: 88px;
-}
 .card-header .btn,.card-header .btn:hover{
 	background:none!important;
 	color:black;
@@ -220,29 +124,7 @@ footer ul{
 	opacity: 0.8;
 	color: #707070;
 }
-#intro .contact{
-	height: auto;
-    padding: 0px;
-}
-#intro .contact .col-md-4{
-	height: 400px;
-    background: rgba(0,0,0,0.5);
-    padding: 66px;
-    text-align: center;
-}
-#intro .contact .col-md-4 h1{
-	color:white;
-}
-#intro .contact .col-md-4 p{
-	color:white;
-}
-#intro .contact .col-md-4 hr {
-    color: white;
-    border-top: 2px solid #f05f5c;
-    width: 87px;
-    margin-top: 24px;
-    margin-bottom: 26px;
-}
+
 .cinner{
 	position:relative;
     top: 50%;
